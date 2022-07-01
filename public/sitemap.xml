@@ -11,10 +11,19 @@
     <loc>https://patrickli.netlify.app/categories/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://patrickli.netlify.app/categories/environment/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://patrickli.netlify.app/categories/oop/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://patrickli.netlify.app/page/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://patrickli.netlify.app/post/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://patrickli.netlify.app/tags/r/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://patrickli.netlify.app/categories/r/</loc>
@@ -30,6 +39,9 @@
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://patrickli.netlify.app/p/test-blog/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://patrickli.netlify.app/p/ttt/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://patrickli.netlify.app/archives/</loc>

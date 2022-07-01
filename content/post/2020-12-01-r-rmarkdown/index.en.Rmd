@@ -1,9 +1,10 @@
 ---
 title: "Test blog"
 author: "Patrick Li"
-date: "`r Sys.Date()`"
+date: "2022-07-01"
 categories: ["R", "Test"]
 tags: ["Test"]
+comments: yes
 ---
 
 ```{r setup, include=FALSE}
