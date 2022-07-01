@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Patrick Li</title>
-        <link>patrickli.netlify.app/</link>
+        <link>https://patrickli.netlify.app/</link>
         <description>Recent content on Patrick Li</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="patrickli.netlify.app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://patrickli.netlify.app/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>patrickli.netlify.app/about/</link>
+        <link>https://patrickli.netlify.app/about/</link>
         <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>patrickli.netlify.app/about/</guid>
+        <guid>https://patrickli.netlify.app/about/</guid>
         <description>&lt;p&gt;I am Patrick Li.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Test blog</title>
-        <link>patrickli.netlify.app/p/test-blog/</link>
+        <link>https://patrickli.netlify.app/p/test-blog/</link>
         <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>patrickli.netlify.app/p/test-blog/</guid>
+        <guid>https://patrickli.netlify.app/p/test-blog/</guid>
         <description>
-&lt;script src=&#34;patrickli.netlify.app/p/test-blog/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://patrickli.netlify.app/p/test-blog/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
@@ -66,7 +66,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;patrickli.netlify.app/p/test-blog/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://patrickli.netlify.app/p/test-blog/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -76,27 +76,27 @@ Figure 1: A fancy pie chart.
         </item>
         <item>
         <title>Archives</title>
-        <link>patrickli.netlify.app/archives/</link>
+        <link>https://patrickli.netlify.app/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>patrickli.netlify.app/archives/</guid>
+        <guid>https://patrickli.netlify.app/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>patrickli.netlify.app/links/</link>
+        <link>https://patrickli.netlify.app/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>patrickli.netlify.app/links/</guid>
+        <guid>https://patrickli.netlify.app/links/</guid>
         <description>&lt;p&gt;Useful links&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Search</title>
-        <link>patrickli.netlify.app/search/</link>
+        <link>https://patrickli.netlify.app/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>patrickli.netlify.app/search/</guid>
+        <guid>https://patrickli.netlify.app/search/</guid>
         <description></description>
         </item>
         

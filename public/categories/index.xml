@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Patrick Li</title>
-        <link>patrickli.netlify.app/categories/</link>
+        <link>https://patrickli.netlify.app/categories/</link>
         <description>Recent content in Categories on Patrick Li</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="patrickli.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://patrickli.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>R</title>
-        <link>patrickli.netlify.app/categories/r/</link>
+        <link>https://patrickli.netlify.app/categories/r/</link>
         <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>patrickli.netlify.app/categories/r/</guid>
+        <guid>https://patrickli.netlify.app/categories/r/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>patrickli.netlify.app/categories/test/</link>
+        <link>https://patrickli.netlify.app/categories/test/</link>
         <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>patrickli.netlify.app/categories/test/</guid>
-        <description>&lt;img src="/patrickli.netlify.app/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://patrickli.netlify.app/categories/test/</guid>
+        <description>&lt;img src="https://patrickli.netlify.app/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         
     </channel>

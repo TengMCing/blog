@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>patrickli.netlify.app/</loc>
+    <loc>https://patrickli.netlify.app/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>patrickli.netlify.app/about/</loc>
+    <loc>https://patrickli.netlify.app/about/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>patrickli.netlify.app/categories/</loc>
+    <loc>https://patrickli.netlify.app/categories/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>patrickli.netlify.app/page/</loc>
+    <loc>https://patrickli.netlify.app/page/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>patrickli.netlify.app/post/</loc>
+    <loc>https://patrickli.netlify.app/post/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>patrickli.netlify.app/categories/r/</loc>
+    <loc>https://patrickli.netlify.app/categories/r/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>patrickli.netlify.app/tags/</loc>
+    <loc>https://patrickli.netlify.app/tags/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>patrickli.netlify.app/tags/test/</loc>
+    <loc>https://patrickli.netlify.app/tags/test/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>patrickli.netlify.app/categories/test/</loc>
+    <loc>https://patrickli.netlify.app/categories/test/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>patrickli.netlify.app/p/test-blog/</loc>
+    <loc>https://patrickli.netlify.app/p/test-blog/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>patrickli.netlify.app/archives/</loc>
+    <loc>https://patrickli.netlify.app/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>patrickli.netlify.app/links/</loc>
+    <loc>https://patrickli.netlify.app/links/</loc>
   </url><url>
-    <loc>patrickli.netlify.app/search/</loc>
+    <loc>https://patrickli.netlify.app/search/</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseurl: patrickli.netlify.app
+baseurl: https://patrickli.netlify.app/
 languageCode: en-us
 theme: "hugo-theme-stack"
 paginate: 5
